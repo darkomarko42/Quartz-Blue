@@ -34,12 +34,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="28.067797"
-     inkscape:cx="-18.847458"
+     inkscape:cy="34.372881"
+     inkscape:cx="11.864407"
      inkscape:zoom="7.375"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="995"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -63,13 +63,13 @@
      d="m 13,13 v 8 h 8 v -8 z m 2,2 h 4 v 4 h -4 z"
      style="fill:#000000" />
   <rect
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.875007"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.12501"
      id="rect2-3"
      fill="#E0E0E0"
-     height="28"
-     width="28"
-     x="3"
-     y="3"
-     rx="4.8363552"
-     ry="4.8363552" />
+     height="36"
+     width="36"
+     x="-1"
+     y="-1"
+     rx="0"
+     ry="0" />
 </svg>
