@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Quartz Dark Pixel
+Name=Quartz Blue
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Quartz Dark Pixel
-MetacityTheme=Quartz Dark Pixel
-IconTheme=Marwaita-Dark
+GtkTheme=Quartz Blue
+MetacityTheme=Quartz Blue
+IconTheme=Marwaita-Light
 CursorTheme=Marwaita
 CursorSize=24
