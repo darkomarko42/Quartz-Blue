@@ -1,2 +1,2 @@
-# Quartz Blue
+# Quartz
 Flat GTK Theme For Cinnamon Desktop
